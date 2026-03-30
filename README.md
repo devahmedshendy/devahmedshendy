@@ -14,7 +14,7 @@
 
 ### 📱 My Featured Apps
 
-#### [MoveUp - Sports Marketplace & Fintech](#)
+#### MoveUp - Sports Marketplace & Fintech
 `Swift` `SwiftUI` `Combine` `MVVM-C` `Clean Architecture` `Stripe Connect`
 > **A comprehensive two-sided sports marketplace.**
 > MoveUp allows players to find games and split costs, and facility owners to manage pitches and revenue. I architected the entire iOS codebase from scratch, engineering the core payment infrastructure using Stripe Connect (handling 3D Secure and split payments) and an internal digital wallet. I delivered a pixel-perfect custom UI and a dynamic multi-step form engine using SwiftUI.
