@@ -42,10 +42,10 @@
 ---
 
 ### 🤝 I have collaborated on apps for...
-* ⚽️ **MoveUp** (2024) - iOS Marketplace 
-* 🚗 **SYAQA** (2024) - iOS Education App
-* ✈️ **Toor** (2024) - iOS Travel App
-* 🛒 **Dhaiban** (2024) - iOS E-commerce App
+* ⚽️ **MoveUp** (2024) - iOS Marketplace (@Semicolon)
+* 🚗 **SYAQA** (2024) - iOS Education App (@Semicolon)
+* ✈️ **Toor** (2024) - iOS Travel App (@Semicolon)
+* 🛒 **Dhaiban** (2024) - iOS E-commerce App (@Semicolon)
 * 💻 **Bushel** (2023) - macOS Virtualization Tool (@BrightDigit)
 * 🛴 **Apollo Scooters** (2021) - iOS Mobility App (@Canada Resources)
 
