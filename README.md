@@ -5,11 +5,10 @@
   <a href="mailto:dev.ahmed.shendy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-🛠 I am an iOS Engineer with over 3 years of experience. I have been focused on Apple platforms and love developing in **Swift**.  
-💡 For me, it's about **crafting software**, not just programming it. I am a detail-oriented, pixel-perfect developer who cares about clean architecture.  
+🛠 I am an iOS Engineer focused on Apple platforms, natively developing in **Swift**.  
+💡 **For over 5 years, I have crafted products with care, a manufacturing mindset, and the ability to manage complex technical trade-offs.** I am a detail-oriented, pixel-perfect developer who cares about clean architecture.  
 ⌚️ I build complex apps for the iPhone and iPad, handling everything from real-time Bluetooth hardware integration to secure fintech payment flows. Recently, I have also enjoyed building cross-platform and full-stack solutions using **Compose Multiplatform** and **Supabase**.  
-👨‍💻 I am always open to new opportunities. Please do contact me if you are looking for a dedicated iOS developer.  
-📄 My resume can be found here: **[Link to your Google Drive PDF]**  
+👨‍💻 I am always open to new opportunities. Please do contact me if you are looking for a dedicated iOS developer.
 
 ---
 
