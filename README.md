@@ -8,7 +8,7 @@
 🛠 I am an iOS Engineer focused on Apple platforms, natively developing in **Swift**.  
 💡 **For over 5 years, I have crafted products with care, a manufacturing mindset, and the ability to manage complex technical trade-offs.** I am a detail-oriented, pixel-perfect developer who cares about clean architecture.  
 ⌚️ I build complex apps for the iPhone and iPad, handling everything from real-time Bluetooth hardware integration to secure fintech payment flows. Recently, I have also enjoyed building cross-platform and full-stack solutions using **Compose Multiplatform** and **Supabase**.  
-👨‍💻 I am always open to new opportunities. Please do contact me if you are looking for a dedicated iOS developer.
+👨‍💻 I am always open to new opportunities. You are welcome to contact me if you are looking for a dedicated iOS developer.
 
 ---
 
