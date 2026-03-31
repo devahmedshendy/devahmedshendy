@@ -15,6 +15,16 @@
 
 ---
 
+### 🤝 I have collaborated on apps for...
+* ⚽️ [**MoveUp**](#moveup---sports-marketplace--fintech) (2026) - iOS Marketplace (@Semicolon)
+* 🚗 [**SYAQA**](#syaqa---education-platform) (2024 & 2025) - iOS Education App (@Semicolon)
+* ✈️ [**Toor**](#toor---travel--tourism) (2024) - iOS Travel App (@Semicolon)
+* 🛒 [**Dhaiban**](#dhaiban---e-commerce) (2024) - iOS E-commerce App (@Semicolon)
+* 💻 **Bushel** (2023) - macOS Virtualization Tool (@BrightDigit)
+* 🛴 [**Apollo Scooters**](#apollo-scooters) (2021) - iOS Mobility App (@Canada Resources)
+
+---
+
 ### 📱 My Featured Apps
 
 #### MoveUp - Sports Marketplace & Fintech
@@ -41,16 +51,6 @@
 `Swift` `UIKit` `Mompay` `Payments`
 > **A complete e-commerce and shopping platform.**
 > I successfully unblocked the stalled MVP for this application, closing critical functional gaps to help the founding team convert their concept into a real, revenue-capable product. I was responsible for implementing the core cart and payment functionalities, integrating Mompay to ensure secure and seamless checkout transactions.
-
----
-
-### 🤝 I have collaborated on apps for...
-* ⚽️ **MoveUp** (2026) - iOS Marketplace (@Semicolon)
-* 🚗 **SYAQA** (2024 & 2025) - iOS Education App (@Semicolon)
-* ✈️ **Toor** (2024) - iOS Travel App (@Semicolon)
-* 🛒 **Dhaiban** (2024) - iOS E-commerce App (@Semicolon)
-* 💻 **Bushel** (2023) - macOS Virtualization Tool (@BrightDigit)
-* 🛴 **Apollo Scooters** (2021) - iOS Mobility App (@Canada Resources)
 
 ---
 
