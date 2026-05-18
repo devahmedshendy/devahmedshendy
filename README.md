@@ -32,7 +32,7 @@
 > **A comprehensive two-sided sports marketplace.**
 > MoveUp allows players to find games and split costs, and facility owners to manage pitches and revenue. I architected the entire iOS codebase from scratch, engineering the core payment infrastructure using Stripe Connect (handling 3D Secure and split payments) and an internal digital wallet. I delivered a pixel-perfect custom UI and a dynamic multi-step form engine using SwiftUI.
 
-#### [Apollo Scooters](https://apps.apple.com/us/app/apollo-scooters/id157234579)
+#### [Apollo Scooters](https://apps.apple.com/us/app/apollo-scooters/id1572345798)
 `Swift` `UIKit` `Mapbox` `CoreBluetooth` `Combine` `Objective-C`
 > **Navigation and Hardware Control for Scooter Users.**
 > I took ownership of this stalled, late-stage project and successfully delivered the core features under tight deadlines. I built a custom turn-by-turn navigation system by diving deep into the Mapbox SDK's internal logic, and created a modern, reactive wrapper using Combine for a legacy Objective-C hardware SDK to ensure safe real-time data streaming.
